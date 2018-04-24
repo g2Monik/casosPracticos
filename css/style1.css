@@ -1,0 +1,34 @@
+body{
+  background-color: #cceffa
+;
+}
+
+h1{
+  color:white;
+  text-align: center;
+}
+
+#bar {
+  width: 20%;
+  height: 375px;
+  background-color: black;
+  }
+
+
+  .box{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 75px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+  }
+
+  .box:hover{
+    background:  #d4d5ac ;
+  }
+
+  div:first-of-type{
+    background:  #f1f661;
+  }

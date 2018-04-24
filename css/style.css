@@ -1,0 +1,30 @@
+body{
+  background-color: #cceffa
+;
+}
+
+h1{
+  color:white;
+  text-align: center;
+}
+
+#bar {
+  width: 100%;
+  height: 75px;
+  background-color: black;
+  }
+
+
+  .box{
+    display: inline-block;
+    position: relative;
+    width: 15%;
+    height: 75px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+  }
+
+  .box:hover{
+    background:  #f1f661;
+  }
